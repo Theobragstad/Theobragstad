@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theobragstad
-- 👀 I’m interested in data science, computer animation and graphics, artificial intelligence 
+- 👀 I’m interested in data science, computer animation and graphics, and artificial intelligence 
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: theo.bragstad@colorado.edu
 
