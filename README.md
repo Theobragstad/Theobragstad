@@ -2,6 +2,6 @@
 [LinkedIn](https://www.linkedin.com/in/theobragstad)
 
 
-![](https://i.imgur.com/fWqF6JW.gif)
+![](https://c.tenor.com/WPdEYzCBUW4AAAAC/polarbearbaby-cute.gif)
 
 
