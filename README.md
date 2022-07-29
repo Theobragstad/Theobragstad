@@ -1,4 +1,4 @@
  #### **Hi!**  
- I'm a CS major at CU Boulder interested in data science, computer vision, and autonomous vehicles.  
+ I'm a CS major at CU Boulder widely interested in data science and machine learning.
  
 theo.bragstad@colorado.edu ([LinkedIn](https://www.linkedin.com/in/theobragstad))
