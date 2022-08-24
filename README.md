@@ -1,5 +1,4 @@
  #### **Hi!**  
- I'm a sophomore CS major at CU Boulder most interested in AI and machine learning.
+ I'm a sophomore CS major at CU Boulder.
  
-theo.bragstad@colorado.edu  
-[LinkedIn](https://www.linkedin.com/in/theobragstad)
+theo.bragstad@colorado.edu &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/theobragstad)
